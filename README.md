@@ -133,6 +133,9 @@ def lambda_handler(event, context):
         }
 
 ```
+## Data stored in S3
+![Sscreenshot](datains3.jpeg)
+
 ## DATA Screenshot
 
 ![DScreenshot](data.jpeg)
