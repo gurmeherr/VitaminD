@@ -4,6 +4,10 @@ This project utilises IoT and cloud computing to monitor environmental factors s
 
 **P.S NOTE**: The Dashboard link via AWS Quicksight needs to be paid for to be access by any other person publicly. I can't pay $250 for the link, therefore I have attached the PDF's of the dashboard.
 
+
+## 🔗 Links
+[Dashboard Link](https://eu-north-1.quicksight.aws.amazon.com/sn/dashboards/c918b8ce-1ca8-4c62-afbe-25e0ee277fd2/)
+
 ## Features
 
 - **Automated Data Collection**: Hourly data collection using AWS Lambda and EventBridge.
