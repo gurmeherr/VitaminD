@@ -135,6 +135,6 @@ def lambda_handler(event, context):
 ```
 ## DATA Screenshot
 
-![DScreenshot](https://github.com/gurmeherr/VitaminD/blob/main/dashboard.jpeg)
+![DScreenshot](data.jpeg)
 
 
