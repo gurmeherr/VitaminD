@@ -2,6 +2,8 @@
 
 This project utilises IoT and cloud computing to monitor environmental factors such as UV Index, temperature, and pollution to provide personalized Vitamin D dosage recommendations. It integrates data collection, processing, and visualisation to empower users with actionable insights into their Vitamin D synthesis needs.
 
+**P.S NOTE**: The Dashboard link via AWS Quicksight needs to be paid for to be access by any other person publicly. I can't pay $250 for the link, therefore I have attached the PDF's of the dashboard.
+
 ## Features
 
 - **Automated Data Collection**: Hourly data collection using AWS Lambda and EventBridge.
